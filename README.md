@@ -3,7 +3,7 @@
 
 # Links 🌐
 
-[Replit](https://replit.com/@AxeHelper/NukeBotByTheAxes?v=1)
+## [Deploy on Replit](https://replit.com/@AxeHelper/NukeBotByTheAxes?v=1)
 
 # YouTube Vedio Tutorial 
 
